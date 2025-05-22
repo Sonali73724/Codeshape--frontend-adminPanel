@@ -1,0 +1,16 @@
+{
+  "cardData": {
+    "todayVisitors": 1234,
+    "monthlyVisitors": 45678,
+    "totalPosts": 567,
+    "activeUsers": 890
+  },
+  "visitorStats": {
+    "labels": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "data": [1500, 1800, 2000, 1900, 2200, 2400, 2100]
+  },
+  "contentInsights": {
+    "labels": ["Blog Posts", "News Articles", "Tutorials", "Reviews"],
+    "data": [30, 25, 20, 25]
+  }
+}

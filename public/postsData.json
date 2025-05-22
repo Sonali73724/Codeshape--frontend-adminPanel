@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Sample Post 1",
+      "totalViews": 1000,
+      "totalLikes": 500,
+      "totalComments": 100,
+      "totalShares": 50,
+      "totalSocialShares": 25,
+      "dailyStats": [
+        {
+          "date": "2023-05-01",
+          "views": 100,
+          "likes": 50,
+          "comments": 10,
+          "shares": 5,
+          "socialShares": 2
+        },
+        {
+          "date": "2023-05-02",
+          "views": 150,
+          "likes": 75,
+          "comments": 15,
+          "shares": 7,
+          "socialShares": 3
+        },
+        {
+          "date": "2023-05-03",
+          "views": 200,
+          "likes": 100,
+          "comments": 20,
+          "shares": 10,
+          "socialShares": 4
+        },
+        {
+          "date": "2023-05-04",
+          "views": 50,
+          "likes": 15,
+          "comments": 5,
+          "shares": 2,
+          "socialShares": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "title": "Sample Post Title",
+  "content": "This is the content of the sample post.",
+  "category": "Technology",
+  "tags": ["react", "javascript", "web development"]
+}
